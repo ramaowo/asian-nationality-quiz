@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asian Celebrity Nationality Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Guess the Nationality</h1>
+            <p>Can you identify where these popular Asian celebrities are from?</p>
+            <div class="score-board">
+                <span>Score: <span id="score">0</span></span>
+                <span> | </span>
+                <span>Streak: <span id="streak">0</span></span>
+            </div>
+        </header>
+
+        <main id="quiz-area">
+            <div class="card">
+                <div class="img-container">
+                    <img id="celeb-img" src="" alt="Celebrity">
+                    <div id="loading" class="hidden">Loading...</div>
+                </div>
+                <h2 id="celeb-name">Celebrity Name</h2>
+                
+                <div id="options" class="options-grid">
+                    <!-- Buttons will be injected here -->
+                </div>
+
+                <div id="result-message" class="hidden"></div>
+                <button id="next-btn" class="hidden">Next Celebrity</button>
+            </div>
+        </main>
+        
+        <footer>
+            <p>Data provided by Wikidata/Wikipedia</p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

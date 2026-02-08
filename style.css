@@ -1,0 +1,127 @@
+:root {
+    --bg-color: #f0f2f5;
+    --card-bg: #ffffff;
+    --primary: #1877f2;
+    --correct: #42b72a;
+    --wrong: #fa3e3e;
+    --text: #050505;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text);
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    width: 100%;
+    max-width: 500px;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.score-board {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 10px;
+    color: #555;
+}
+
+.card {
+    background: var(--card-bg);
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    padding: 20px;
+    text-align: center;
+}
+
+.img-container {
+    position: relative;
+    width: 100%;
+    height: 350px;
+    background: #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+
+#celeb-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+#celeb-name {
+    margin: 0 0 20px 0;
+    font-size: 1.5rem;
+}
+
+.options-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+button {
+    background: #e4e6eb;
+    border: none;
+    padding: 12px;
+    border-radius: 6px;
+    font-size: 1rem;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background 0.2s;
+}
+
+button:hover {
+    background: #d8dadf;
+}
+
+button.correct {
+    background: var(--correct);
+    color: white;
+}
+
+button.wrong {
+    background: var(--wrong);
+    color: white;
+}
+
+#result-message {
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 1.1rem;
+    min-height: 1.5em;
+}
+
+#next-btn {
+    width: 100%;
+    margin-top: 15px;
+    background: var(--primary);
+    color: white;
+}
+
+#next-btn:hover {
+    background: #166fe5;
+}
+
+.hidden {
+    display: none;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.8rem;
+    color: #65676b;
+}
