@@ -73,6 +73,9 @@ function loadNextQuestion() {
 
     // Set UI
     imgElement.src = currentPerson.image;
+    imgElement.onerror = () => {
+        imgElement.src = 'https://via.placeholder.com/400x400?text=No+Image';
+    };
     nameElement.textContent = currentPerson.name;
 
     // Generate Options (1 correct + 3 random unique wrong ones)

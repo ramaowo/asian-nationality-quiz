@@ -1,22 +1,77 @@
 [
   {
-    "name": "BTS V",
+    "name": "BTS V (Kim Tae-hyung)",
     "nationality": "South Korea",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/V_for_Dispatch_%22Boy_With_Luv%22_MV_behind_the_scene_shooting%2C_15_March_2019_04.jpg/800px-V_for_Dispatch_%22Boy_With_Luv%22_MV_behind_the_scene_shooting%2C_15_March_2019_04.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/V_for_Dispatch_%22Boy_With_Luv%22_MV_behind_the_scene_shooting%2C_15_March_2019_04.jpg/640px-V_for_Dispatch_%22Boy_With_Luv%22_MV_behind_the_scene_shooting%2C_15_March_2019_04.jpg"
   },
   {
-    "name": "Lisa",
+    "name": "Lisa (Blackpink)",
     "nationality": "Thailand",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Blackpink_Lisa_Vogue_Taiwan_February_2021_cover_%28cropped%29.jpg/800px-Blackpink_Lisa_Vogue_Taiwan_February_2021_cover_%28cropped%29.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Blackpink_Lisa_Vogue_Taiwan_February_2021_cover_%28cropped%29.jpg/640px-Blackpink_Lisa_Vogue_Taiwan_February_2021_cover_%28cropped%29.jpg"
   },
   {
     "name": "Donnie Yen",
     "nationality": "Hong Kong",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Donnie_Yen_2019.jpg/800px-Donnie_Yen_2019.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Donnie_Yen_2019.jpg/640px-Donnie_Yen_2019.jpg"
   },
   {
     "name": "Manny Pacquiao",
     "nationality": "Philippines",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Manny_Pacquiao_2019.jpg/800px-Manny_Pacquiao_2019.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Manny_Pacquiao_2019.jpg/640px-Manny_Pacquiao_2019.jpg"
+  },
+  {
+    "name": "Song Hye-kyo",
+    "nationality": "South Korea",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Song_Hye-kyo_at_the_launch_of_the_Dior_Seoul_boutique_in_2022.jpg/640px-Song_Hye-kyo_at_the_launch_of_the_Dior_Seoul_boutique_in_2022.jpg"
+  },
+  {
+    "name": "Jackie Chan",
+    "nationality": "China",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jackie_Chan_Cannes_2012_2.jpg/640px-Jackie_Chan_Cannes_2012_2.jpg"
+  },
+  {
+    "name": "Priyanka Chopra",
+    "nationality": "India",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Priyanka_Chopra_promoting_The_Sky_Is_Pink_in_2019.jpg/640px-Priyanka_Chopra_promoting_The_Sky_Is_Pink_in_2019.jpg"
+  },
+  {
+    "name": "Ken Watanabe",
+    "nationality": "Japan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ken_Watanabe_Berlin_Film_Festival_2018.jpg/640px-Ken_Watanabe_Berlin_Film_Festival_2018.jpg"
+  },
+  {
+    "name": "Bae Suzy",
+    "nationality": "South Korea",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Suzy_at_fansign_event_on_February_3%2C_2018_%282%29.jpg/640px-Suzy_at_fansign_event_on_February_3%2C_2018_%282%29.jpg"
+  },
+  {
+    "name": "Shah Rukh Khan",
+    "nationality": "India",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg/640px-Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg"
+  },
+  {
+    "name": "Catriona Gray",
+    "nationality": "Philippines",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Catriona_Gray_in_2019.jpg/640px-Catriona_Gray_in_2019.jpg"
+  },
+  {
+    "name": "Tony Jaa",
+    "nationality": "Thailand",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tony_Jaa_Cannes_2010.jpg/640px-Tony_Jaa_Cannes_2010.jpg"
+  },
+  {
+    "name": "Fan Bingbing",
+    "nationality": "China",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fan_Bingbing_Cannes_2018.jpg/640px-Fan_Bingbing_Cannes_2018.jpg"
+  },
+  {
+    "name": "IU (Lee Ji-eun)",
+    "nationality": "South Korea",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/IU_at_%22Broker%22_open_talk_at_BIFF_2022.jpg/640px-IU_at_%22Broker%22_open_talk_at_BIFF_2022.jpg"
+  },
+  {
+    "name": "Yui Aragaki",
+    "nationality": "Japan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Yui_Aragaki_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2017_%2826330962369%29.jpg/640px-Yui_Aragaki_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2017_%2826330962369%29.jpg"
   }
 ]

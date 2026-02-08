@@ -1,0 +1,4 @@
+// Update img error handling in app.js
+imgElement.onerror = function() {
+    this.src = 'https://via.placeholder.com/400x300?text=Image+Not+Found';
+};
